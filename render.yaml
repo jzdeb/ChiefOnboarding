@@ -1,6 +1,6 @@
 databases:
   - name: chiefonboardingdb
-    region: frankfurt
+    region: oregon
     databaseName: chiefonboardingdb
     ipAllowList: []
 
